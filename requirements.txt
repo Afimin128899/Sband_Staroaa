@@ -1,0 +1,5 @@
+aiogram==3.*
+sqlalchemy[asyncio]
+asyncpg
+aiohttp
+python-dotenv
